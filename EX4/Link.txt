@@ -1,0 +1,9 @@
+Histogram equalization
+https://www.imageeprocessing.com/2011/04/matlab-code-histogram-equalization.html
+
+Hist matching:
+https://stackoverflow.com/questions/26763974/histogram-matching-of-two-images-without-using-histeq
+
+Histrogram specification:
+http://fourier.eng.hmc.edu/e161/lectures/contrast_transform/node3.html
+
