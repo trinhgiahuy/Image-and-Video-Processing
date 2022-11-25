@@ -1,5 +1,7 @@
 ### Image-and-Video-Processing
 
+[Digital Image Processing](https://mrcet.com/downloads/digital_notes/ECE/IV%20Year/31082020/DIGITAL%20IMAGE%20PROCESSING.pdf)
+
 Theory links
 
 [Histogram Equalization](https://www.math.uci.edu/icamp/courses/math77c/demos/hist_eq.pdf)
